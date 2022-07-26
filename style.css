@@ -1,0 +1,19 @@
+h1{
+    background-color: brown;
+}
+body{
+    background-color: aqua;
+}
+p { 
+    text-align: center;
+    font-size: 40px;
+}
+p b {
+    color: #FFFFFF;
+}
+p u {
+    color: #555555;
+}
+p i {
+    color: #FF0000;
+}
